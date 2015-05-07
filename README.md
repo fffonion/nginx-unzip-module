@@ -4,7 +4,7 @@ A nginx module enabling fetching of files that are stored in zipped archives.
 ## Nginx configuration example
 
 * file_in_unzip_archivefile - points to the zipped file
-* file_in_unzip_extract - file to be extracted from the zipped file
+* file_in_unzip_extract - file index to be extracted from the zipped file
 * file_in_unzip - flag activating the module
 
 <pre>
